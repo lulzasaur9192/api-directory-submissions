@@ -1,0 +1,59 @@
+{
+  "aid": "rapidapi.com:marketplace-price-tracker",
+  "name": "Marketplace Price Tracker",
+  "description": "Real-time price tracking and alerts for TCGPlayer, Reverb, eBay, and 15+ online marketplaces. Search items, track price history, set alert thresholds, and receive webhook notifications when prices drop.",
+  "url": "https://rapidapi.com/lulzasaur9192/api/marketplace-price-tracker?utm_source=apis-io&utm_medium=directory&utm_campaign=marketplace-price-tracker",
+  "created": "2026-03-20",
+  "modified": "2026-03-29",
+  "specificationVersion": "0.18",
+  "type": "Index",
+  "tags": [
+    "Price Tracking",
+    "TCGPlayer",
+    "Reverb",
+    "eBay",
+    "Marketplace",
+    "Ecommerce",
+    "Price Alerts",
+    "Price History"
+  ],
+  "apis": [
+    {
+      "aid": "rapidapi.com:marketplace-price-tracker:api",
+      "name": "Marketplace Price Tracker API",
+      "description": "Search and track prices across TCGPlayer, Reverb, eBay, and more. Get current prices, price history, set alert thresholds, and register webhooks for real-time price drop notifications.",
+      "humanUrl": "https://rapidapi.com/lulzasaur9192/api/marketplace-price-tracker?utm_source=apis-io&utm_medium=directory&utm_campaign=marketplace-price-tracker",
+      "baseUrl": "https://marketplace-price-api-production.up.railway.app",
+      "version": "1.0.0",
+      "tags": [
+        "Price Tracking",
+        "Marketplace",
+        "Ecommerce",
+        "Alerts",
+        "TCGPlayer"
+      ],
+      "properties": [
+        {
+          "type": "OpenAPI",
+          "url": "https://marketplace-price-api-production.up.railway.app/openapi.json"
+        },
+        {
+          "type": "Documentation",
+          "url": "https://rapidapi.com/lulzasaur9192/api/marketplace-price-tracker?utm_source=apis-io&utm_medium=directory&utm_campaign=marketplace-price-tracker"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Lulzasaur",
+          "url": "https://rapidapi.com/lulzasaur9192"
+        }
+      ]
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Lulzasaur",
+      "url": "https://rapidapi.com/lulzasaur9192"
+    }
+  ]
+}

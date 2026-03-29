@@ -1,0 +1,59 @@
+{
+  "aid": "rapidapi.com:agent-audit-log",
+  "name": "Agent Audit Log",
+  "description": "Tamper-proof HMAC-chain audit logs for AI agents. Cryptographic verification of agent action sequences ensures compliance and accountability. Log events, verify chain integrity, and monitor agent health.",
+  "url": "https://rapidapi.com/lulzasaur9192/api/agent-audit-log?utm_source=apis-io&utm_medium=directory&utm_campaign=agent-audit-log",
+  "created": "2026-03-26",
+  "modified": "2026-03-29",
+  "specificationVersion": "0.18",
+  "type": "Index",
+  "tags": [
+    "AI",
+    "Audit Log",
+    "HMAC",
+    "Compliance",
+    "Agent",
+    "Security",
+    "Cryptography",
+    "Tamper Proof"
+  ],
+  "apis": [
+    {
+      "aid": "rapidapi.com:agent-audit-log:api",
+      "name": "Agent Audit Log API",
+      "description": "Tamper-proof HMAC-chain audit logs for AI agents. Log events with cryptographic chaining, verify chain integrity, monitor chain status, and ensure no tampering of agent action histories.",
+      "humanUrl": "https://rapidapi.com/lulzasaur9192/api/agent-audit-log?utm_source=apis-io&utm_medium=directory&utm_campaign=agent-audit-log",
+      "baseUrl": "https://agent-audit-log.up.railway.app",
+      "version": "1.0.0",
+      "tags": [
+        "AI Agent",
+        "Audit",
+        "HMAC",
+        "Security",
+        "Compliance"
+      ],
+      "properties": [
+        {
+          "type": "OpenAPI",
+          "url": "https://agent-audit-log.up.railway.app/openapi.json"
+        },
+        {
+          "type": "Documentation",
+          "url": "https://rapidapi.com/lulzasaur9192/api/agent-audit-log?utm_source=apis-io&utm_medium=directory&utm_campaign=agent-audit-log"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Lulzasaur",
+          "url": "https://rapidapi.com/lulzasaur9192"
+        }
+      ]
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Lulzasaur",
+      "url": "https://rapidapi.com/lulzasaur9192"
+    }
+  ]
+}

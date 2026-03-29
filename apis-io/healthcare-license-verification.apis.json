@@ -1,0 +1,59 @@
+{
+  "aid": "rapidapi.com:healthcare-license-verification",
+  "name": "Healthcare License Verification",
+  "description": "Verify professional licenses across all 50 US states. Covers contractors, nurses, doctors, pharmacists, therapists, and 22 healthcare professions. Individual and batch verification with NPPES NPI Registry integration.",
+  "url": "https://rapidapi.com/lulzasaur9192/api/healthcare-license-verification?utm_source=apis-io&utm_medium=directory&utm_campaign=healthcare-license-verification",
+  "created": "2026-03-27",
+  "modified": "2026-03-29",
+  "specificationVersion": "0.18",
+  "type": "Index",
+  "tags": [
+    "Healthcare",
+    "License Verification",
+    "NPPES",
+    "NPI",
+    "Nursing",
+    "Medical",
+    "Credentialing",
+    "Compliance"
+  ],
+  "apis": [
+    {
+      "aid": "rapidapi.com:healthcare-license-verification:api",
+      "name": "Healthcare License Verification API",
+      "description": "Verify contractor, nurse, and healthcare professional licenses across all 50 US states. Supports individual lookups, batch verification, and covers 22 healthcare professions via NPPES NPI Registry.",
+      "humanUrl": "https://rapidapi.com/lulzasaur9192/api/healthcare-license-verification?utm_source=apis-io&utm_medium=directory&utm_campaign=healthcare-license-verification",
+      "baseUrl": "https://license-verify-api-production.up.railway.app",
+      "version": "1.0.0",
+      "tags": [
+        "Healthcare",
+        "License",
+        "Verification",
+        "NPPES",
+        "Credentialing"
+      ],
+      "properties": [
+        {
+          "type": "OpenAPI",
+          "url": "https://license-verify-api-production.up.railway.app/openapi.json"
+        },
+        {
+          "type": "Documentation",
+          "url": "https://rapidapi.com/lulzasaur9192/api/healthcare-license-verification?utm_source=apis-io&utm_medium=directory&utm_campaign=healthcare-license-verification"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Lulzasaur",
+          "url": "https://rapidapi.com/lulzasaur9192"
+        }
+      ]
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Lulzasaur",
+      "url": "https://rapidapi.com/lulzasaur9192"
+    }
+  ]
+}

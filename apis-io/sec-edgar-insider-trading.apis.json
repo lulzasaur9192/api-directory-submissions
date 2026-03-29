@@ -1,0 +1,60 @@
+{
+  "aid": "rapidapi.com:sec-edgar-insider-trading-alerts",
+  "name": "SEC EDGAR Insider Trading Alerts",
+  "description": "Real-time insider trading alerts and SEC Form 4 filings. Track insider buys, sells, and grants by ticker or insider name. Subscribe to email digests of significant transactions. Powered by SEC EDGAR EFTS and ATOM feeds.",
+  "url": "https://rapidapi.com/lulzasaur9192/api/sec-edgar-insider-trading-alerts?utm_source=apis-io&utm_medium=directory&utm_campaign=sec-edgar-insider-trading",
+  "created": "2026-03-26",
+  "modified": "2026-03-29",
+  "specificationVersion": "0.18",
+  "type": "Index",
+  "tags": [
+    "SEC",
+    "EDGAR",
+    "Insider Trading",
+    "Form 4",
+    "Stock Market",
+    "Finance",
+    "Alerts",
+    "Trading",
+    "Compliance"
+  ],
+  "apis": [
+    {
+      "aid": "rapidapi.com:sec-edgar-insider-trading-alerts:api",
+      "name": "SEC EDGAR Insider Trading Alerts API",
+      "description": "Track real-time SEC Form 4 insider trades. Filter by ticker or insider name, browse companies and insiders, subscribe to email alerts for significant transactions.",
+      "humanUrl": "https://rapidapi.com/lulzasaur9192/api/sec-edgar-insider-trading-alerts?utm_source=apis-io&utm_medium=directory&utm_campaign=sec-edgar-insider-trading",
+      "baseUrl": "https://sec-edgar-alerts.up.railway.app",
+      "version": "1.0.0",
+      "tags": [
+        "SEC",
+        "EDGAR",
+        "Insider Trading",
+        "Finance",
+        "Alerts"
+      ],
+      "properties": [
+        {
+          "type": "OpenAPI",
+          "url": "https://sec-edgar-alerts.up.railway.app/openapi.json"
+        },
+        {
+          "type": "Documentation",
+          "url": "https://rapidapi.com/lulzasaur9192/api/sec-edgar-insider-trading-alerts?utm_source=apis-io&utm_medium=directory&utm_campaign=sec-edgar-insider-trading"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Lulzasaur",
+          "url": "https://rapidapi.com/lulzasaur9192"
+        }
+      ]
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Lulzasaur",
+      "url": "https://rapidapi.com/lulzasaur9192"
+    }
+  ]
+}
